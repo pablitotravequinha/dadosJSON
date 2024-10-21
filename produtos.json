@@ -3,36 +3,36 @@
         "nome": "Calça Jeans",
         "tamanho": 42,
         "preco": 139.99,
-        "imagem": "CalçaJeans.jpg"
+        "imagem": "img/CalçaJeans.jpg"
     },
     {
         "nome": "Sandália Comfortflex",
         "tamanho": 38,
         "preco": 125.30,
-        "imagem": "SandáliaComfortflex.webp"
+        "imagem": "img/SandáliaComfortflex.jpg"
     },
     {
         "nome": "Vestido Soltinho Paisley",
         "tamanho": "M",
         "preco": 39.99,
-        "imagem": "VestidoSoltinhoPaisley.webp"
+        "imagem": "img/VestidoSoltinhoPaisley.webp"
     },
     {
         "nome": "Jaqueta com Capuz",
         "tamanho": "GG",
         "preco": 161.89,
-        "imagem": "jaqueta.webp"
+        "imagem": "img/jaqueta.webp"
     },
     {
         "nome": "Maiô Preto em Poliflex",
         "tamanho": "XXG",
         "preco": 120.70,
-        "imagem": "maiopretopoliflex.webp"
+        "imagem": "img/maiopretopoliflex.webp"
     },
     {
         "nome": "Biquini Lacinho",
         "tamanho": "P",
         "preco": 26.30,
-        "imagem": "biquini.webp"
+        "imagem": "img/biquini.webp"
     }
 ]
