@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Calça Jeans",
+        "tamanho": 42,
+        "preco": 139.99,
+        "imagem": "img/teste.jpn"
+    },
+    {
+        "nome": "Tênis feminino",
+        "tamanho": 35,
+        "preco": 245.00,
+        "imagem": "img/teste.jpn"
+    },
+    {
+        "nome": "Vestido Soltinho Paisley",
+        "tamanho": "M",
+        "preco": 39.99,
+        "imagem": "img/teste.jpn"
+    },
+    {
+        "nome": "Jaqueta com Capuz",
+        "tamanho": "GG",
+        "preco": 161.89,
+        "imagem": "img/teste.jpn"
+    },
+    {
+        "nome": "Maiô Preto em Poliflex",
+        "tamanho": "XXG",
+        "preco": 120.70,
+        "imagem": "img/teste.jpn"
+    },
+    {
+        "nome": "Biquini Lacinho",
+        "tamanho": "P",
+        "preco": 26.30,
+        "imagem": "img/teste.jpn"
+    }
+]
